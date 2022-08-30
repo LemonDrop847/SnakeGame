@@ -1,7 +1,7 @@
 # SnakeGame
 A small game made using python with the Turtle module.
 
-# Build instructions
+## Build instructions
 1. Install pyinstaller using pip
     ```
     pip install pyinstaller
