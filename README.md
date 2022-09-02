@@ -8,7 +8,7 @@ A small game made using python with the Turtle module.
     ```
 2. Go to the repository in the terminal i.e cd {Path}\SnakeGame
     ```
-    cd {path to rep}\SnakeGame
+    cd {path to repo}\SnakeGame
     ```
 3. Run pyinstaller 
     ```
